@@ -4,7 +4,7 @@ Unit tests for module currency
 When run as a script, this module invokes several procedures that test
 the various functions in the module currency.
 """
-#test
+
 
 import introcs
 import currency
