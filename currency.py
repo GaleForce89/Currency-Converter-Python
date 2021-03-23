@@ -8,7 +8,7 @@ in this module is exchange().
 
 import introcs
 
-APIKEY = "J8Cmha3jI7fUFP6e7NhrAoRxtnWeNeHgzSZZMXornpke"
+APIKEY = 'have a key'
 
 
 def before_space(s):
